@@ -22,7 +22,7 @@
   $ git clone https://github.com/AkshayBlackHat/PayloadGenerator.git
   
   
-  $ cd PayloadGenerator
+  $ cd Payload
  
  
  $ chmod +x PayloadGenreter.py
