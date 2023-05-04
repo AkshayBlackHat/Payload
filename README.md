@@ -14,8 +14,10 @@
 
 > Installation 
   
+  $ git clone https://github.com/AkshayBlackHat/PayloadGenerator.git
   
-  $ cd 
+  
+  $ cd PayloadGenerator
  
  
  $ chmod +x PayloadGenreter.py
